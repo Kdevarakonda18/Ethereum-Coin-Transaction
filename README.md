@@ -42,7 +42,7 @@ EtherPay is a full-stack Ethereum coin transaction platform 🧾 built using **N
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Chaitu1017/Etherpay-Blockchain.git
+   https://github.com/Kdevarakonda18/Ethereum-Coin-Transaction.git
    ```
 2.Install dependencies
    ```bash
